@@ -1,0 +1,8 @@
+{
+  "name": "Kolya",
+  "surname": "Bokov",
+  "age": 33,
+  "isMale": true,
+  "address": ["derevnya Babushkino","Dedushkina oblast"]
+
+}
